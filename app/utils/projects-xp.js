@@ -1,4 +1,7 @@
 export const PROJECTS_XP = {
+    "java-localserver" : 258000,
+    "rust-localserver" : 258000,
+    "01blog"   : 258000 + 293000,
     "go-reloaded": 5000,
     "ascii-art": 6130,
     "0-shell": 1086000,
